@@ -1,0 +1,50 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django stuff:
+*.log
+*.sqlite3
+db.sqlite3
+/media
+/static
+
+# Virtual environment
+venv/
+.env/
+env/
+.venv
+.env*
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# PyCharm project files
+*.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Cache
+.cache/
+
+# Test results
+*.cover
+*.py,cover
+*.pylintrc
+coverage.xml
+
+# Node.js files if you're using npm or yarn
+node_modules/
